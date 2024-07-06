@@ -98,8 +98,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Test10_TypeCast.cpp" />
+    <ClCompile Include="Test9_Divide.cpp" />
     <ClCompile Include="Test1_Limits.cpp" />
     <ClCompile Include="Test2_Exceed.cpp" />
+    <ClCompile Include="Test3_Hexoct.cpp" />
+    <ClCompile Include="Test4_CharType.cpp" />
+    <ClCompile Include="Test5_Bondini.cpp" />
+    <ClCompile Include="Test6_FloatNum.cpp" />
+    <ClCompile Include="Test7_FltAdd.cpp" />
+    <ClCompile Include="Test8_Arithmetic.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
