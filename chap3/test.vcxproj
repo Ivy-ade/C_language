@@ -98,6 +98,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Prac1_Height.cpp" />
+    <ClCompile Include="Prac2_BMI.cpp" />
     <ClCompile Include="Test10_TypeCast.cpp" />
     <ClCompile Include="Test9_Divide.cpp" />
     <ClCompile Include="Test1_Limits.cpp" />

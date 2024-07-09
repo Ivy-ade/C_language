@@ -45,5 +45,11 @@
     <ClCompile Include="Test10_TypeCast.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Prac1_Height.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac2_BMI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

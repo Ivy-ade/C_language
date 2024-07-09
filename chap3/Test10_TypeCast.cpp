@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main() {
+int main10() {
 	using namespace std;
 
 	int auks, bats, coots;
