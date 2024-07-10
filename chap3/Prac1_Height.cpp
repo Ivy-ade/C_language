@@ -3,7 +3,7 @@
 
 #include<iostream>
 
-int main() {
+int main11() {
 	using namespace std;
 
 	const int IntoInch = 12;
