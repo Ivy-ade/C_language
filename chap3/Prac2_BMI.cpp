@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main() {
+int main22() {
 	using namespace std;
 
 	const float IntoP = 2.2f;

@@ -51,5 +51,20 @@
     <ClCompile Include="Prac2_BMI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Prac3_Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac4_Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac5_Population.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac6_Fuel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac7_TransFuel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
