@@ -98,12 +98,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Prac1_ShowInfo.cpp" />
     <ClCompile Include="Test1_ArrayOne.cpp" />
     <ClCompile Include="Test2_Strings.cpp" />
     <ClCompile Include="Test3_Instr.cpp" />
     <ClCompile Include="Test4_StrType.cpp" />
     <ClCompile Include="Test5_Structur.cpp" />
     <ClCompile Include="Test6_Address.cpp" />
+    <ClCompile Include="Test7_Arr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
