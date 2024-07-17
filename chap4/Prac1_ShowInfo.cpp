@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main() {
+int main11() {
     using namespace std;
 
     char firstName[20], lastName[20];
