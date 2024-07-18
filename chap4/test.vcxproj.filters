@@ -54,5 +54,17 @@
     <ClCompile Include="Prac6_Struct2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Prac7_StructPizza1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac8_StructPizza2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac9_StructPizza3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prac10_RecordRun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

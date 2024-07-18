@@ -98,12 +98,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Prac10_RecordRun.cpp" />
     <ClCompile Include="Prac1_ShowInfo.cpp" />
     <ClCompile Include="Prac2_ChangeToString.cpp" />
     <ClCompile Include="Prac3_CstringName.cpp" />
     <ClCompile Include="Prac4_StringName.cpp" />
     <ClCompile Include="Prac5_Struct1.cpp" />
     <ClCompile Include="Prac6_Struct2.cpp" />
+    <ClCompile Include="Prac7_StructPizza1.cpp" />
+    <ClCompile Include="Prac8_StructPizza2.cpp" />
+    <ClCompile Include="Prac9_StructPizza3.cpp" />
     <ClCompile Include="Test1_ArrayOne.cpp" />
     <ClCompile Include="Test2_Strings.cpp" />
     <ClCompile Include="Test3_Instr.cpp" />
